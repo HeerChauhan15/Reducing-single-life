@@ -8,12 +8,12 @@ from openpyxl.styles import Font, Alignment
 from openpyxl.utils import get_column_letter
 
 st.set_page_config(
-    page_title="single Reducing Premium Calculatiom",
+    page_title="Single Reducing Premium Calculation",
     page_icon="💰",
     layout="wide"
 )
 
-st.title("💰 Aviva GCL Insurance Premium Calculator")
+st.title("💰 "Single Reducing Premium Calculation ")
 st.markdown("Select plan details below")
 
 # ============================================
