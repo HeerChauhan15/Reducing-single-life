@@ -8,7 +8,7 @@ from openpyxl.styles import Font, Alignment
 from openpyxl.utils import get_column_letter
 
 st.set_page_config(
-    page_title="Insurance Premium Calculator",
+    page_title="single Reducing Premium Calculatiom",
     page_icon="💰",
     layout="wide"
 )
