@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("💰 "Single Reducing Premium Calculation")
+st.title("💰 Single Reducing Premium Calculation")
 st.markdown("Select plan details below")
 
 # ============================================
